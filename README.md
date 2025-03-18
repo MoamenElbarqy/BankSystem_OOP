@@ -21,7 +21,8 @@ Password : 1234
 
 🔹You May Have Issues If You Run The Program From The Terminal, You Can Run The .exe file directly or Run From The cmd
 
-- isuue sample :[Screenshot 2025-03-18 042152](https://github.com/user-attachments/assets/25fa47d6-49c5-40c9-8390-dbb6e258415e)
+- isuue sample :[Formatting Issue Sample Screen Shot](https://github.com/user-attachments/assets/c609613b-3b05-437b-bdb3-a4827f5be9ec)
+
 
 ## 🛠 Installation Steps
 
