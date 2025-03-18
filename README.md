@@ -19,6 +19,10 @@ Password : 1234
 
 🔹Currencies Data is not up to date, But You Can Update its Rate in File Using The System
 
+🔹You May Have Issues If You Run The Program From The Terminal, You Can Run The .exe file directly or Run From The cmd
+
+- isuue sample :[Screenshot 2025-03-18 042152](https://github.com/user-attachments/assets/25fa47d6-49c5-40c9-8390-dbb6e258415e)
+
 ## 🛠 Installation Steps
 
 Follow these steps to set up and run the project on your machine manually:  
