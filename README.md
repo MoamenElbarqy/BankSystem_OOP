@@ -1,8 +1,7 @@
 # 🏦 BankSystem  
 
 **BankSystem** developed using **Object-Oriented Programming (OOP) in C++**.  
-This file-based project simulates real-world banking operations with a strong focus on **Account management, User management, Financial transactions and Some Security By Saving The Passwords Encrypted**.  
-The system prevents unauthorized access by automatically locking after three consecutive failed login attempts.  
+This file-based project simulates real-world banking operations with a strong focus on **Account management, User management, Financial transactions and, Security By Saving The Passwords Encrypted and prevents access after three consecutive failed login attempts**.  
 The system ensures that users without the required permissions cannot perform restricted operations.  
 ##  Notes
 
