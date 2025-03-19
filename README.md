@@ -22,7 +22,7 @@ Password : 1234
 
 - isuue sample :[Formatting Issue Sample Screen Shot](https://github.com/user-attachments/assets/c609613b-3b05-437b-bdb3-a4827f5be9ec)
 
-
+         
 ## 🛠 Installation Steps
 
 Follow these steps to set up and run the project on your machine manually:  
@@ -47,6 +47,7 @@ The program requires the following text files **in the same directory**:
 - `TransferLog.txt`  
 - `ClientsData.txt`  
 
+🔹 Enviroments like visual studio need .sln file to work you can start a empty project and visual studio will generate .sln file and add the acual project fiels as exsisting files like this 
 ## 📌 Features  
 Testing Features -> (https://drive.google.com/file/d/1b_9j9B_1EYfWbmuc04tWoWGSClYgrmi_/view?usp=drive_link)
 ### 🔹 Client Management  
