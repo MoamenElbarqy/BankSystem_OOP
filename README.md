@@ -38,7 +38,7 @@ Follow these steps to set up and run the project on your machine manually:
 
 ### 4️⃣ Run the Program  
 
-### 5️⃣ Ensure Required Files Exist
+### 5️⃣ Ensure Required Files Existed
 
 The program requires the following text files **in the same directory**:  
 - `CurrenciesData.txt`  
