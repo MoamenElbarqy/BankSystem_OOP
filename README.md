@@ -18,7 +18,7 @@ Password : 1234
 
 🔹Currencies Data is not up to date, But You Can Update its Rate in File Using The System
 
-🔹You May Have Issues If You Run From Terminal, You Can Run The .exe file directly or From cmd
+🔹You May Have a Formatting Issues If You Run From Terminal, You Can Run The .exe file directly or From cmd
 
 - isuue sample :[Formatting Issue Sample Screen Shot](https://github.com/user-attachments/assets/c609613b-3b05-437b-bdb3-a4827f5be9ec)
 
